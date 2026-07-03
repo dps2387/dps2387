@@ -46,7 +46,7 @@ Co-built a startup project focused on helping student organizations turn unstruc
 
 ## 📈 GitHub Stats
 
-![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=salinaspa22&show_icons=true&theme=default)
+![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=dps2387&show_icons=true&theme=default)
 
 ---
 
