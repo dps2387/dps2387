@@ -1,4 +1,4 @@
-# Hi, I'm David Paul Salinas 👋
+# Hi, I'm Paul Salinas 👋
 
 I'm an economics graduate from The University of Texas at Austin with a focus on data analytics, statistics, and practical business problem-solving. I like working with messy, real-world data and turning it into something useful — whether that means cleaning records, building reports, analyzing trends, or creating tools that make decisions easier.
 
